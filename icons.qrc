@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>icons/chartinfo.ico</file>
+        <file>icons/close.ico</file>
+        <file>icons/copy.ico</file>
+        <file>icons/cut.ico</file>
+        <file>icons/edit.ico</file>
+        <file>icons/explorer.ico</file>
+        <file>icons/font.ico</file>
+        <file>icons/github.ico</file>
+        <file>icons/help.ico</file>
+        <file>icons/info.ico</file>
+        <file>icons/open.ico</file>
+        <file>icons/paste.ico</file>
+        <file>icons/print.ico</file>
+        <file>icons/qt.ico</file>
+        <file>icons/redo.ico</file>
+        <file>icons/save.ico</file>
+        <file>icons/tutorial.ico</file>
+        <file>icons/undo.ico</file>
+    </qresource>
+</RCC>

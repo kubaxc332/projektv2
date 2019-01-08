@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/analytics.svg</file>
+        <file>images/bar-chart.svg</file>
+        <file>images/charts.svg</file>
+        <file>images/eraser.svg</file>
+        <file>images/eye.svg</file>
+        <file>images/login.jpg</file>
+        <file>images/pie-chart.svg</file>
+        <file>images/cursor.png</file>
+        <file>images/help.jpg</file>
+        <file>images/info.jpg</file>
+        <file>images/github.png</file>
+        <file>images/infoa.jpg</file>
+        <file>images/qt.png</file>
+        <file>images/qt.svg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>images/info.jpg</file>
+    </qresource>
+</RCC>

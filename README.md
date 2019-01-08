@@ -1,1 +1,1 @@
-# projektv2
+# WykresyQT
